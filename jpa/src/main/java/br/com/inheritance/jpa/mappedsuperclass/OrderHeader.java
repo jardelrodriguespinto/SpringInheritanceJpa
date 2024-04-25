@@ -1,4 +1,4 @@
-package br.com.inheritance.jpa.model;
+package br.com.inheritance.jpa.mappedsuperclass;
 
 import jakarta.persistence.Entity;
 import lombok.Data;
